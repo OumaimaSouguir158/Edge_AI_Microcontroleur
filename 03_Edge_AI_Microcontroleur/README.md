@@ -1,4 +1,4 @@
-# 🔴 Projet 3 — Reconnaissance d'objets embarquée sur microcontrôleur (Edge AI)
+#  Projet 3 — Reconnaissance d'objets embarquée sur microcontrôleur (Edge AI)
 
 ## Objectif
 Déployer un modèle de classification d'images allégé directement sur un microcontrôleur, pour une inférence locale en temps réel, sans connexion cloud.
